@@ -1,0 +1,22 @@
+
+URL: https://bizitest.tinkerlabz.net/
+BROWSER: Chrome
+BROWSER_CHROME: Chrome
+BROWSER_FIREFOX: Firefox
+SEARCH: top
+COUPON: invalid_for_test
+COOKIE: E2ETEST
+
+USERNAME: bizibitesting
+PASSWORD: q1q1q1q1
+NEWPASS: Pa$$word!2
+
+TEST_VENDOR_USERNAME: Test162995959784342
+TEST_VENDOR_PASSWORD: Pa$$word!2
+
+
+FILE_PATH: assets\example1.pdf
+IMAGES:
+  IMAGE1: assets\images1.jpeg
+  IMAGE2: assets\images2.jpeg
+  IMAGE3: assets\images3.jpeg
